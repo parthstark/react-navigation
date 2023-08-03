@@ -4,6 +4,16 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+# Sample SS
+![3D7BCE14-ED7F-4A8A-AF13-211E7E35F635](https://github.com/parthstark/react-navigation/assets/54953233/a6754edc-4f09-48e3-a63d-f34e7cfd3fc8)
+![5E54C0EA-3F03-405E-A70F-CE98069F4EA2](https://github.com/parthstark/react-navigation/assets/54953233/80fec03b-208d-4682-a4cb-28346184babc)
+![AE7E95B1-597B-4ED4-8A6C-5B384E30E0E0](https://github.com/parthstark/react-navigation/assets/54953233/b178f720-5f37-4576-ad67-1e31acc16cec)
+![1633E093-7AF1-4337-AA8A-AD068FEB054B](https://github.com/parthstark/react-navigation/assets/54953233/25555092-16b6-4ddf-8c8e-65ac3ff3f1b6)
+![155E339D-AB3F-4BF5-B7F3-51C88ED8D260](https://github.com/parthstark/react-navigation/assets/54953233/09a9e1b7-a64b-45ba-b12d-dd4a66c8a6a1)
+![D09BFCC4-0309-41DD-8891-0FFC804452AF](https://github.com/parthstark/react-navigation/assets/54953233/48066a5c-4b0c-4483-a650-b604f8bebcdc)
+
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
